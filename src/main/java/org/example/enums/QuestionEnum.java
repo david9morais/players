@@ -11,7 +11,7 @@ public enum QuestionEnum {
     EIGHTH("What were your main responsibilities in previous projects?"),
     NINTH("What do you want for your future?");
 
-    private String question;
+    private final String question;
 
     QuestionEnum(String question) {
         this.question = question;

@@ -30,7 +30,7 @@ public class GenerateMessage {
 
         Random r = new Random();
 
-        int randomNumber = r.nextInt(list.size()); // a random number between 0 and list.size()
+        int randomNumber = r.nextInt(list.size()); // a random number between 0 and size of this list
         String message = list.get(randomNumber); // get the random response from the list
         list.remove(randomNumber); // delete the item selected randomly from the list
         return message;
