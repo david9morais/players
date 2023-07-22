@@ -1,0 +1,20 @@
+Hi
+Hi
+How are you?
+Good
+Do you have a higher education degree?
+Yes, I have a degree in Computer Science
+Have you ever had an experience outside your country?
+Not as a professional, but during my degree I did Erasmus for 6 months in Hungary
+Have you started work yet?
+Yes, as a java software developer
+How many years of experience do you have?
+I have 3 years of experience in java web development
+Which java versions have you worked with?
+I have already worked with java 8 and 11
+How many professional projects have you been involved in?
+I participated in 3 projects, 2 in the banking sector and 1 in the health sector
+What were your main responsibilities in previous projects?
+Develop new features and fix bugs
+What do you want for your future?
+An opportunity to have an experience outside my comfort zone and thereby develop myself on a professional and personal level
